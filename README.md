@@ -5,7 +5,7 @@
 - Review Rails generators
 - Render related models as nested JSON data
 
-## Introduction
+## Introduction  
 
 Using `only` and `except`, we can be selective in what attributes we want to
 render to JSON in our basic Rails API. But what if we want to be _inclusive_
